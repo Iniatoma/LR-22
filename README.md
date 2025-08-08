@@ -1,5 +1,4 @@
-# PR-22
-Выполнил: Янкевич ДВ. Группа: ЭВТ-71    
+# PR-22  
 Игровой движок: Unity 2021.3.13f1  
 Название работы: разработка игры Them Fall   
 ![themfall](https://user-images.githubusercontent.com/119736937/205521383-b9db32bd-a826-45a0-9bde-2f7dd3c9c7e5.PNG)  
